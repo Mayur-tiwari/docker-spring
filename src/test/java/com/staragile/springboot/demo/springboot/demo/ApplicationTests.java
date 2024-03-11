@@ -1,10 +1,10 @@
-package com.star.agile.assignment.springbootdemoo;
+package com.staragile.springboot.demo.springboot.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootDemooApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
